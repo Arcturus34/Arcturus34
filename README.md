@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SOULAIROL Lilian</h1>
 <h3 align="center">I'm a student at Polytech Dijon in 4th year of a computer science engineering school, majoring in security and network quality.</h3>
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/960848925856319080/A63487B5EB8430F450568FCEC2064D327F59576B/?imw=512&imh=506&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img align="right" alt="Coding" width="400" src="https://github.com/Arcturus34/Arcturus34/blob/main/profile-pic.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arcturus34&label=Profile%20views&color=0e75b6&style=flat" alt="Arcturus34" /> </p>
 
@@ -50,9 +50,6 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="cisco" width="40" height="40"/>
