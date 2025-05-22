@@ -56,18 +56,6 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arcturus34&show_icons=true&locale=en" alt="Arcturus34" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Arcturus34&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus34&layout=donut" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arcturus34&show_icons=true&locale=en" alt="Arcturus34" />
+<img src="https://streak-stats.demolab.com?user=Arcturus34&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus34&layout=donut" alt="Top Langs" />
