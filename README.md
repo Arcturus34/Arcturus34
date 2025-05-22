@@ -62,7 +62,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Arcturus34&show_icons=true&locale=en" alt="Arcturus34" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=Arcturus34&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Arcturus34&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
