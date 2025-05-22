@@ -66,3 +66,4 @@
     </td>
   </tr>
 </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus34&layout=donut" alt="Top Langs" />
