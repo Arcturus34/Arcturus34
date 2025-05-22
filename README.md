@@ -64,6 +64,8 @@
     <td>
       <img src="https://streak-stats.demolab.com?user=Arcturus34&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus34&layout=donut" alt="Top Langs" />
+    </td>
   </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus34&layout=donut" alt="Top Langs" />
