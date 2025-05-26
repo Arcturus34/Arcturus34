@@ -54,9 +54,6 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
   </a>
-  <a href="https://www.gns3.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" alt="gns3" width="40" height="40"/>
-  </a>
 </p>
 
 <table>
