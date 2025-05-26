@@ -54,6 +54,9 @@
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" alt="cisco" width="40" height="40"/>
   </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
 </p>
 
 <table>
