@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arcturus34&label=Profile%20views&color=0e75b6&style=flat" alt="Arcturus34" /> </p>
 
-- 🔭 I’m currently working on [NetBox](https://github.com/netbox-community/netbox)
-
 - 🌱 I’m currently learning **Pentesting, C++, Shell, Networks**
 
 - 📫 How to reach me **lilian.soulairol@gmail.com**
