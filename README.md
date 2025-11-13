@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOULAIROL Lilian</h1>
 <h3 align="center">I'm a student at Polytech Dijon in 5th year of a computer science engineering school, majoring in security and network quality.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Arcturus34/Arcturus34/blob/main/profile-pic.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arcturus34&label=Profile%20views&color=0e75b6&style=flat" alt="Arcturus34" /> </p>
 
