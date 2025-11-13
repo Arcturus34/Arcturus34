@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOULAIROL Lilian</h1>
-<h3 align="center">I'm a student at Polytech Dijon in 4th year of a computer science engineering school, majoring in security and network quality.</h3>
+<h3 align="center">I'm a student at Polytech Dijon in 5th year of a computer science engineering school, majoring in security and network quality.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Arcturus34/Arcturus34/blob/main/profile-pic.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arcturus34&label=Profile%20views&color=0e75b6&style=flat" alt="Arcturus34" /> </p>
@@ -58,9 +58,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Arcturus34&show_icons=true&locale=en" alt="Arcturus34" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Arcturus34&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
