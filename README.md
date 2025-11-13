@@ -58,9 +58,8 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Arcturus34&show_icons=true&locale=en" alt="Arcturus34" />
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus34&layout=donut" alt="Top Langs" />
+    </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus34&layout=donut" alt="Top Langs" />
-</div>
